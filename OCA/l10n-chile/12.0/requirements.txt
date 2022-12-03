@@ -1,0 +1,12 @@
+cchardet
+dicttoxml
+Jinja2==2.10.1
+M2Crypto
+num2words
+pdf417gen
+pysftp
+signxml
+suds-py3
+urllib3
+xlsxwriter
+xmltodict

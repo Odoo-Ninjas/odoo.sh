@@ -1,0 +1,12 @@
+account-invoicing
+community-data-files
+partner-contact
+product-attribute
+queue
+reporting-engine
+sale-workflow
+server-tools
+stock-logistics-workflow
+connector
+storage
+server-auth

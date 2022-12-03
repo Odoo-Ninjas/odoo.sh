@@ -1,0 +1,13 @@
+# generated from manifests external_dependencies
+acme
+astor
+cryptography
+dataclasses
+dnspython
+josepy
+lxml
+mako
+odoorpc
+openupgradelib
+pysftp
+sentry_sdk

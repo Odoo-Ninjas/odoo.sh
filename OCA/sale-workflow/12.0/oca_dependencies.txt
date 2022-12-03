@@ -1,0 +1,12 @@
+account-closing
+account-invoicing
+calendar
+product-attribute
+partner-contact
+server-tools
+server-ux
+web
+bank-payment
+server-tools
+stock-logistics-warehouse
+queue

@@ -1,0 +1,4 @@
+freezegun
+odoo_test_helper
+xmlunittest
+responses

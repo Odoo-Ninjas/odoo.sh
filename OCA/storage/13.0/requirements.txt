@@ -1,0 +1,7 @@
+# generated from manifests external_dependencies
+boto3
+paramiko
+pyftpdlib
+python-magic
+python_slugify
+validators

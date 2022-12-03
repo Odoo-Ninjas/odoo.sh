@@ -1,0 +1,10 @@
+sentry-sdk
+openpyxl
+xlrd
+xlwt
+pysftp
+pygount>1.2.1
+acme
+cryptography
+dnspython
+josepy

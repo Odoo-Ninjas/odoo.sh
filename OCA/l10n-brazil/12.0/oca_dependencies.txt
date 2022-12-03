@@ -1,0 +1,12 @@
+commission
+currency
+bank-payment
+account-payment
+account-invoicing
+account-reconcile
+mis-builder
+contract
+manufacture
+delivery-carrier
+purchase-workflow
+sale-workflow

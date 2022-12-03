@@ -1,0 +1,10 @@
+# generated from manifests external_dependencies
+cryptography<37
+email_validator
+lasso
+lxml
+pyotp
+python-jose
+python-ldap
+python-u2flib-server
+zxcvbn
