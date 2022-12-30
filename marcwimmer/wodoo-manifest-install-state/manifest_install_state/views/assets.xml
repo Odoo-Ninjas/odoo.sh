@@ -1,0 +1,12 @@
+<odoo>
+	<data>
+        <!--
+		<template id="assets_backend" name="manifest_install_state assets" inherit_id="web.assets_backend">
+			<xpath expr="." position="inside">
+				<script type="text/javascript" src="/manifest_install_state/static/src/js/manifest_install_state.js"></script>
+                <link rel="stylesheet" href="/manifest_install_state/static/src/css/manifest_install_state.css"/>
+			</xpath>
+		</template>
+        -->
+	</data>
+</odoo>

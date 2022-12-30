@@ -1,0 +1,15 @@
+<odoo>
+	<data noupdate='0'>
+
+		<record id="view_ir_module_module_tree" model="ir.ui.view">
+			<field name="model">ir.module.module</field>
+			<field name="inherit_id" ref="base.module_tree"/>
+			<field name="arch" type="xml">
+				<field name="name" position="after">
+					<field name="should_be_installed"/>
+				</field>
+			</field>
+		</record>
+
+	</data>
+</odoo>
