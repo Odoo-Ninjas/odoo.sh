@@ -1,0 +1,17 @@
+<odoo>
+	<data noupdate='0'>
+
+		<record id="view_ir_module_module_search" model="ir.ui.view">
+			<field name="model">ir.module.module</field>
+			<field name="inherit_id" ref="base.view_module_filter"/>
+			<field name="arch" type="xml">
+				<data>
+					<field name="name" position="after">
+						<filter name="should_be_installed" string="MANIFEST" domain="[('should_be_installed', '=', True)]"/>
+					</field>
+				</data>
+			</field>
+		</record>
+
+	</data>
+</odoo>
