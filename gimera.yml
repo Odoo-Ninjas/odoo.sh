@@ -1,16 +1,21 @@
 repos:
 - branch: 14.0
-  path: OCA/marcwimmer/module_tools/14.0
+  path: marcwimmer/wodoo-manifest-install-state/14.0
+  sha: 910725c1400e256c5c48ed6e528922bbb71ed7c5
+  type: integrated
+  url: https://github.com/marcwimmer/wodoo-manifest-install-state.git
+- branch: 14.0
+  path: marcwimmer/module_tools/14.0
   sha: 4078d4b206ab2966c72446419669b42ad93289d4
   type: integrated
   url: https://github.com/marcwimmer/odoo-module_tools
 - branch: 15.0
-  path: OCA/marcwimmer/module_tools/15.0
+  path: marcwimmer/module_tools/15.0
   sha: 8b61a4870eab96ca0cf227dc16e1538168c291a8
   type: integrated
   url: https://github.com/marcwimmer/odoo-module_tools
 - branch: 16.0
-  path: OCA/marcwimmer/module_tools/16.0
+  path: marcwimmer/module_tools/16.0
   type: integrated
   url: https://github.com/marcwimmer/odoo-module_tools
 - branch: '12.0'
